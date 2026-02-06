@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/babslinar-lang/test-api/issues"
   },
-  "homepage": "https://github.com/babslinar-lang/test-api#readme"
+  "homepage": "https://github.com/babslinar-lang/test-api#readme",
+  "dependencies": {
+    "knope": "^1.1.2"
+  }
 }
